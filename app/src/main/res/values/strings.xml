@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestProject-Extending-Activities</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="INTENT_EXTRA_FIRST_NAME">first_name</string>
+    <string name="INTENT_EXTRA_LAST_NAME">last_name</string>
+    <string name="title_activity_add">Add New Record</string>
+
+
+</resources>

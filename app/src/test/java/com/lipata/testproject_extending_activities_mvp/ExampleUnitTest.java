@@ -1,4 +1,4 @@
-package com.lipata.testproject_extending_activities;
+package com.lipata.testproject_extending_activities_mvp;
 
 import org.junit.Test;
 

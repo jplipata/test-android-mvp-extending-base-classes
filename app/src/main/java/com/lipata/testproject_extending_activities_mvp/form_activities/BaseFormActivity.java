@@ -1,4 +1,4 @@
-package com.lipata.testproject_extending_activities.formActivities;
+package com.lipata.testproject_extending_activities_mvp.form_activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.lipata.testproject_extending_activities.R;
+import com.lipata.testproject_extending_activities_mvp.R;
 
 public abstract class BaseFormActivity extends AppCompatActivity implements FormContract.View {
 

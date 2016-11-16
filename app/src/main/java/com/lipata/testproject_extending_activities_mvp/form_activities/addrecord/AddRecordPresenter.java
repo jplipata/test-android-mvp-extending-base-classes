@@ -1,7 +1,7 @@
-package com.lipata.testproject_extending_activities.formActivities.addrecord;
+package com.lipata.testproject_extending_activities_mvp.form_activities.addrecord;
 
-import com.lipata.testproject_extending_activities.formActivities.BaseFormPresenter;
-import com.lipata.testproject_extending_activities.formActivities.FormContract;
+import com.lipata.testproject_extending_activities_mvp.form_activities.BaseFormPresenter;
+import com.lipata.testproject_extending_activities_mvp.form_activities.FormContract;
 
 /**
  * Created by jlipata on 11/16/16.

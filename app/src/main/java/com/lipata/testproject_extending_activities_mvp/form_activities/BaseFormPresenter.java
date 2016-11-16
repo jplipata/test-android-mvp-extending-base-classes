@@ -1,4 +1,4 @@
-package com.lipata.testproject_extending_activities.formActivities;
+package com.lipata.testproject_extending_activities_mvp.form_activities;
 
 /**
  * Created by jlipata on 11/15/16.

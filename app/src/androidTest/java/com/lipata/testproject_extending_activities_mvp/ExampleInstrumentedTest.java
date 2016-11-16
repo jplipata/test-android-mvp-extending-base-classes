@@ -1,4 +1,4 @@
-package com.lipata.testproject_extending_activities;
+package com.lipata.testproject_extending_activities_mvp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

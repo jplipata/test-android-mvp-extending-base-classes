@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lipata.testproject_extending_activities">
+    package="com.lipata.testproject_extending_activities_mvp">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.lipata.testproject_extending_activities_mvp.MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,12 +20,12 @@
         </activity>
 
         <activity
-            android:name=".formActivities.addrecord.AddRecordActivity"
+            android:name="com.lipata.testproject_extending_activities_mvp.form_activities.addrecord.AddRecordActivity"
             android:label="@string/title_activity_add"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <activity
-            android:name=".formActivities.updaterecord.UpdateActivity"
+            android:name="com.lipata.testproject_extending_activities_mvp.form_activities.updaterecord.UpdateActivity"
             android:label="@string/title_activity_update"
             android:theme="@style/AppTheme.NoActionBar" />
 

@@ -1,7 +1,7 @@
-package com.lipata.testproject_extending_activities.formActivities.updaterecord;
+package com.lipata.testproject_extending_activities_mvp.form_activities.updaterecord;
 
-import com.lipata.testproject_extending_activities.R;
-import com.lipata.testproject_extending_activities.formActivities.BaseFormActivity;
+import com.lipata.testproject_extending_activities_mvp.R;
+import com.lipata.testproject_extending_activities_mvp.form_activities.BaseFormActivity;
 
 public class UpdateActivity extends BaseFormActivity {
 

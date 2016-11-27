@@ -8,6 +8,10 @@ import android.widget.Toast;
 
 import com.lipata.testproject_extending_activities_mvp.R;
 
+/**
+ * Base UI form that uses R.layout.activity_base_form.  It has 2 text input fields that can either be
+ * created as blank ("new record" use case), or can be pre-populated ("update record" use case)
+ */
 public abstract class BaseFormActivity extends AppCompatActivity implements FormContract.View {
 
     protected FormContract.Presenter presenter;

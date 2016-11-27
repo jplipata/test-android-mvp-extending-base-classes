@@ -12,7 +12,7 @@ import com.lipata.testproject_extending_activities_mvp.form_activities.updaterec
 
 
 /**
- * This is just a navigation screen.  See package `formActivities` for MVP architecture extending base classes
+ * This is just a navigation screen.  See package `form_activities` for MVP architecture extending base classes
  */
 public class MainActivity extends AppCompatActivity {
 

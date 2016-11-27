@@ -4,6 +4,8 @@ import com.lipata.testproject_extending_activities_mvp.form_activities.BaseFormA
 
 /**
  * Created by jlipata on 11/15/16.
+ *
+ * Loads blank UI from base classes.
  */
 
 public class AddRecordActivity extends BaseFormActivity {

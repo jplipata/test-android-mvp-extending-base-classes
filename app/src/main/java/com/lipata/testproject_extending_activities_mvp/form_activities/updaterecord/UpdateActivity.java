@@ -3,6 +3,9 @@ package com.lipata.testproject_extending_activities_mvp.form_activities.updatere
 import com.lipata.testproject_extending_activities_mvp.R;
 import com.lipata.testproject_extending_activities_mvp.form_activities.BaseFormActivity;
 
+/**
+ * Uses base UI and pre-populates with existing record's data
+ */
 public class UpdateActivity extends BaseFormActivity {
 
     @Override
